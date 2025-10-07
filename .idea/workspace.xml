@@ -5,21 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="675a8399-e1d3-4b3e-878c-a75bde266a4b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LLDCaseStudy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TicTacToe/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TicTacToe/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TicTacToe/PieceType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TicTacToe/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TicTacToe/PlayingPiece.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TicTacToe/PlayingPieceO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TicTacToe/PlayingPieceX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TicTacToe/TicTacToe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SnakeAndLadder/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SnakeAndLadder/Cell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SnakeAndLadder/Dice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SnakeAndLadder/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SnakeAndLadder/Jump.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SnakeAndLadder/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SnakeAndLadder/Player.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +29,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "priyanshi1399"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/priyanshi1399/LLDCaseStudy.git",
+    "accountId": "10d975e0-d2be-4d45-90b8-5bc3a411e7f8"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
 }]]></component>
@@ -50,7 +54,7 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/priya/IdeaProjects/LLDCaseStudy/src/Main.java"
   }

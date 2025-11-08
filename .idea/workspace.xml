@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="675a8399-e1d3-4b3e-878c-a75bde266a4b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/RateLimiter/FixedWindowCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RateLimiter/SlidingWindowLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RateLimiter/SlidingWindowCounter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
